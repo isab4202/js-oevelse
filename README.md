@@ -1,2 +1,2 @@
 # js-oevelse
-repo til øvelser
+repo til js øvelser
